@@ -12,59 +12,60 @@ Angular is a widely-used open-source web application framework developed and mai
 
 **1. Prerequisites**:
 
-  - HTML, CSS, and JavaScript: Ensure you have a good understanding of these fundamental web technologies.
-  - TypeScript: Angular is built with TypeScript, so it's essential to learn the basics of TypeScript, including its syntax and features.
+-   HTML, CSS, and JavaScript: Ensure you have a good understanding of these fundamental web technologies.
+-   TypeScript: Angular is built with TypeScript, so it's essential to learn the basics of TypeScript, including its syntax and features.
 
 **2. Basic Concepts**:
 
-  - Understand the MVC Architecture: Learn about Angular's Model-View-Controller architecture and how it organizes code.
-  - Components and Directives: Gain a solid understanding of Angular components and directives.
-  - Templates and Data Binding: Learn how to create templates and bind data between the component and the view.
+-   Understand the MVC Architecture: Learn about Angular's Model-View-Controller architecture and how it organizes code.
+-   Components and Directives: Gain a solid understanding of Angular components and directives.
+-   Templates and Data Binding: Learn how to create templates and bind data between the component and the view.
 
 **3. Getting Started**:
 
-  - Angular CLI: Familiarize yourself with the Angular CLI to create, build, and manage Angular projects.
-  - Create Your First App: Follow tutorials to create a simple Angular application to understand the basics.
+-   Angular CLI: Familiarize yourself with the Angular CLI to create, build, and manage Angular projects.
+-   Create Your First App: Follow tutorials to create a simple Angular application to understand the basics.
 
 **4. Deepen Your Knowledge**:
 
-  - Services and Dependency Injection: Learn how to create services and use dependency injection for sharing data and functionality.
-  - Modules: Understand how to use Angular modules to organize and structure your application.
+-   Services and Dependency Injection: Learn how to create services and use dependency injection for sharing data and functionality.
+-   Modules: Understand how to use Angular modules to organize and structure your application.
 
 **5. Routing**:
 
-  - Angular Router: Learn how to implement navigation in your application using the Angular Router.
+-   Angular Router: Learn how to implement navigation in your application using the Angular Router.
 
 **6. Forms**:
 
-  - Template-Driven Forms: Start with template-driven forms to handle user input.
-  - Reactive Forms: Progress to reactive forms for more control and complex scenarios.
+-   Template-Driven Forms: Start with template-driven forms to handle user input.
+-   Reactive Forms: Progress to reactive forms for more control and complex scenarios.
 
 **7. HTTP and Observables**:
 
-  - HttpClient: Learn how to make HTTP requests in Angular using the HttpClient module.
-  - Observables: Understand the role of observables in Angular and how they facilitate handling asynchronous operations.
+-   HttpClient: Learn how to make HTTP requests in Angular using the HttpClient module.
+-   Observables: Understand the role of observables in Angular and how they facilitate handling asynchronous operations.
 
 **8. State Management**:
 
-  - NgRx (Optional): Explore state management with NgRx if you're working on larger applications.
+-   NgRx (Optional): Explore state management with NgRx if you're working on larger applications.
 
 **9. Testing**:
 
-  - Unit Testing: Learn to write unit tests for your Angular components and services.
-  - End-to-End Testing: Explore tools like Protractor for end-to-end testing.
+-   Unit Testing: Learn to write unit tests for your Angular components and services.
+-   End-to-End Testing: Explore tools like Protractor for end-to-end testing.
 
 **10. Advanced Concepts**:
-  - Directives: Explore more advanced directives in Angular.
-  - Pipes: Understand how to use pipes for data transformation in templates.
+
+-   Directives: Explore more advanced directives in Angular.
+-   Pipes: Understand how to use pipes for data transformation in templates.
 
 **11. Deployment**:
-  - Deploy Your App: Learn how to deploy your Angular application to different hosting environments.
 
+-   Deploy Your App: Learn how to deploy your Angular application to different hosting environments.
 
 ### Angular Ecosystem.
 
-<!-- 
+<!--
 | Section                             | Topics                                         |
 | ----------------------------------- | ---------------------------------------------- |
 | **1.- React Router**                | ReactRouter V6, json-server                    |
@@ -72,7 +73,7 @@ Angular is a widely-used open-source web application framework developed and mai
 | **3.- Static Site Generator (SSG)** | Gatsby, Astro and Next.js                      |
 | **4.- Http**                        | Apollo/GraphQl, Axios/Http and ReactQuery/Http |
 | **5.-Css**                          | Style Components, CSS in JS and Material UI    |
-| **6.- Mobile Apps**                 | React Native                                   | 
+| **6.- Mobile Apps**                 | React Native                                   |
 
 
 Angular CLI (Command Line Interface): A command-line tool that helps developers scaffold, build, test, and deploy Angular applications. It simplifies common development tasks and provides a consistent project structure.
@@ -93,10 +94,11 @@ Angular Testing: Angular provides tools and utilities for writing unit tests, en
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                          | Tier           |
-| ----------------------------- | -------------- |
-| 1. foundation.                | 1-Beginner     |
-<!-- 
+| Name           | Tier       | Live Demo                                                             |
+| -------------- | ---------- | --------------------------------------------------------------------- |
+| 1. foundation. | 1-Beginner | https://65800941b0fbca161b7b5c99--dynamic-crumble-0fb805.netlify.app/ |
+
+<!--
 | 2. Counter App.               | 1-Beginner     |
 | 3. Gif Library.               | 1-Beginner     |
 | 4. Hooks App.                 | 1-Beginner     |
